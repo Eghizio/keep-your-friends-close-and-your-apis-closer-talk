@@ -17,3 +17,5 @@ I’ll introduce you to the Backend For Frontend pattern. You will see how we ar
 [GitHub](https://github.com/Eghizio)
 
 Discord: `Eghizio#3491`
+
+# [🔗 Check out my other talks](https://github.com/Eghizio/talks)

@@ -2,15 +2,18 @@
 
 Talk about BFF (Backend for Frontend) architectural pattern and API gateways and proxies.
 
-# Presentation
-[Kongres Next.js](https://docs.google.com/presentation/d/18RcL-BGNVTm8Skdt_ZfXxpTwVOWnoFcwVa11qARfllo/edit?usp=sharing)
+## Abstract
+I’ll introduce you to the Backend For Frontend pattern. You will see how we are using it in the organisation for our microservices & microfrontends architecture and how Next.js grants you that capabilities out of the box for your projects. Finally we will discuss the benefits and drawbacks of befriending APIs with your clients via BFF.
 
-[Studencki Festiwal Informatyczny](https://docs.google.com/presentation/d/1T-UHSGBPacOTw0UyYdYK6g_GCQtBTmN5s3ixE_SRrl8/edit?usp=sharing)
+# Presentation
+[Kongres Next.js - Warszawa 02.02.2024](https://docs.google.com/presentation/d/18RcL-BGNVTm8Skdt_ZfXxpTwVOWnoFcwVa11qARfllo/edit?usp=sharing)
+
+[Studencki Festiwal Informatyczny - Kraków 05.04.2024](https://docs.google.com/presentation/d/1T-UHSGBPacOTw0UyYdYK6g_GCQtBTmN5s3ixE_SRrl8/edit?usp=sharing)
 
 # Contact
 
-LinkedIn: [Link](https://www.linkedin.com/in/jacob-wasik/)
+[LinkedIn](https://www.linkedin.com/in/jacob-wasik/)
 
-GitHub: [Link](https://github.com/Eghizio)
+[GitHub](https://github.com/Eghizio)
 
 Discord: `Eghizio#3491`
